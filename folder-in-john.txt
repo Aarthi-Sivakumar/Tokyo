@@ -6,3 +6,4 @@ The branch Logout that is newly created in John's folder is deleted
 Commit done after deleting the new branch logout
 Switched to John's folder
 New branch is created in john's folder
+New branch created in john's folder is deleted after merging with master
