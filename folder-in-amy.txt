@@ -3,3 +3,4 @@ Another commit made in branch feature
 Commit done after deleting the branch in amy's folder
 Commit done after creating another branch in amy's folder
 Another Commit done on the same branch in amy's folder
+The newly created branch Logout is deleted
