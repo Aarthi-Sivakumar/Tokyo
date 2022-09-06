@@ -1,3 +1,4 @@
 Folder in John
 Switched to John's folder
 Creating a new branch
+Commit done on the new branch in John's folder
