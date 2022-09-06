@@ -6,3 +6,4 @@ Another Commit done on the same branch in amy's folder
 The newly created branch Logout is deleted
 Switching to John's folder
 Switched to amy's folder and fetched the commits from remote
+Another new branch is created
