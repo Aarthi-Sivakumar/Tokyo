@@ -2,3 +2,4 @@ Folder in John
 Switched to John's folder
 Creating a new branch
 Commit done on the new branch in John's folder
+The branch Logout that is newly created in John's folder is deleted
