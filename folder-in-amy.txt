@@ -7,3 +7,4 @@ The newly created branch Logout is deleted
 Switching to John's folder
 Switched to amy's folder and fetched the commits from remote
 Another new branch is created
+Another new branch is created in amy's folder and commited
