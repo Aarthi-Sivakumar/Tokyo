@@ -5,3 +5,4 @@ Commit done on the new branch in John's folder
 The branch Logout that is newly created in John's folder is deleted
 Commit done after deleting the new branch logout
 Switched to John's folder
+New branch is created in john's folder
